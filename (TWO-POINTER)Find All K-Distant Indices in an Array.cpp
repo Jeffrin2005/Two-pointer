@@ -4,7 +4,7 @@ class Solution {
 public:
     vector<int> findKDistantIndices(vector<int>& nums, int key, int k){
         vector<int> result;
-        int n = nums.size();
+        int n = nums.size(); // time compe = o(n) space comp = o(n)
         // Collect all indices where nums[j] == key
         vector<int> keyIndices;
         for (int i = 0; i < n;i++){
