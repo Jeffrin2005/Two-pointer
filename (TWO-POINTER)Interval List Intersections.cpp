@@ -1,5 +1,9 @@
 
+/*
+Time complexity:o(n+m)
+Space complexity:o(n+m)
 
+    */
 class Solution {
 public:
     vector<vector<int>> intervalIntersection(vector<vector<int>>& A, vector<vector<int>>& B) {
