@@ -1,5 +1,5 @@
 /*
-SIMPLE TWO-POINTER COMMENTED C++ SOLUTION 
+SIMPLE TWO-POINTER COMMENTED C++ SOLUTION (IN-PLACE)
 Time complexity:o(n)
 Space complexity:o(1)
 
