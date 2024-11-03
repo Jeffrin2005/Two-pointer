@@ -3,6 +3,7 @@ class Solution {
 public:
 /*
 Time complexity: O(N), where N = 1000 (the maximum range of x or y).
+
 Space complexity:O(M), where M is the number of pairs that satisfy f(x, y) = z
 */
     vector<vector<int>> findSolution(CustomFunction& customfunction, int z) {
