@@ -1,7 +1,7 @@
 
 class Solution {
 public:
-// SIMPLE TWO-POINTER C++ SOLUTION 
+// SIMPLE TWO-POINTER APPROACH
 /*Time complexity:o(k)
 - Space complexity:o(k)
 
