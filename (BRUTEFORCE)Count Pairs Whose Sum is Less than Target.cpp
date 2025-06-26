@@ -2,10 +2,6 @@ class Solution {
 public:
 
 
-
-
-
-
 /// testing git commit 
     int countPairs(vector<int>& v, int target) {
         int n = v.size();
