@@ -1,8 +1,6 @@
 class Solution {
 public:
-
-
-/// testing git commit 
+// temp comiit 
     int countPairs(vector<int>& v, int target) {
         int n = v.size();
         int i= 0;
