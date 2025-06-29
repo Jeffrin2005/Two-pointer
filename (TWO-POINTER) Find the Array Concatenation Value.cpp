@@ -8,6 +8,7 @@ public:
         ll i = 0;
         ll  j = n - 1;
         // instead of ll u can use long long
+        /// llllll 
         while (i < j){
           string s =to_string(nums[i]) +to_string(nums[j]);  
             ans+=stoll(s);  
